@@ -1,6 +1,6 @@
 # EXNO2DS
-## NAME: VIJAYASHREE B
-## REG: 212223040238
+## NAME: GANESH PRABHU J
+## REG: 212223220023
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
